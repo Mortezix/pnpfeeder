@@ -3,6 +3,10 @@ Pick and place 3d printable feeder
 
 This design is based on Alex semi-auto design: https://github.com/alexavr2/alexfeeder
 
+Here is a video on how this feeder works:
+
+https://youtu.be/wn1GH4cqm3o
+
 - It is fully 3d printable.
 - Has automatic tape cover removal
 - Tape cover removal does not need any special controller. Just simple microswitch and 5v-12v supply
