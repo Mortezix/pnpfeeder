@@ -1,7 +1,7 @@
 #Mortezix PNP feeder
 Pick and place 3d printable feeder
 
-![Mortezix PNP Feeder](http://tuningtalk.com/TMS/mortezix-feeder.jpg)
+![Mortezix PNP Feeder](https://github.com/Mortezix/pnpfeeder/blob/master/mortezix-feeder.png)
 
 This design is based on Alex semi-auto design: https://github.com/alexavr2/alexfeeder
 
